@@ -1,2 +1,7 @@
-# Tinevimbo-Sagonda-H250362G-Lab-work
-OOP Java Lab Exercises
+# OOP Java Lab Exercises 
+
+* **Full Name:** Tinevimbo Sagonda
+* **Registration Number:** H250362G
+* **Department:** Software Engineering
+* **Course:** Object-Oriented Programming
+
